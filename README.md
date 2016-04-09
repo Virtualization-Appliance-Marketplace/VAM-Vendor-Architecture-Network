@@ -3,6 +3,7 @@ The VAM Vendor Architecture Network is a high language mainframe for integrating
 
 SoC Maintenance Instruction Set
 
-=Welcome to the VAM Labcoat wiki!=
-Please visit the group's wiki for more information.
+ Welcome to the VAM Labcoat wiki!
+
+Please visit the group's wiki (https://github.com/Virtualization-Appliance-Marketplace/VAM-Vendor-Architecture-Network/wiki) for more information.
 
